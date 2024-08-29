@@ -1,0 +1,25 @@
+{
+  "name": "v3-tmp-1",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "watch": "vite build --watch"
+  },
+  "dependencies": {
+    "@types/chrome": "^0.0.270",
+    "vite-plugin-html": "^3.2.2",
+    "vite-plugin-static-copy": "^1.0.6",
+    "vue": "^3.4.37"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.2",
+    "sass-embedded": "^1.77.8",
+    "typescript": "^5.5.3",
+    "vite": "^5.4.1",
+    "vue-tsc": "^2.0.29"
+  }
+}
