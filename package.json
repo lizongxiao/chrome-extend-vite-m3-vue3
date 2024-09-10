@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@types/chrome": "^0.0.270",
+    "@types/node": "^22.5.4",
     "vite-plugin-html": "^3.2.2",
     "vite-plugin-static-copy": "^1.0.6",
     "vue": "^3.4.37"
