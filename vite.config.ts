@@ -65,6 +65,7 @@ export default defineConfig({
   resolve: {
     alias: {
       "@": resolve(__dirname, "src"),
+      "@popup": resolve(__dirname, "popup"),
     },
   },
 });
